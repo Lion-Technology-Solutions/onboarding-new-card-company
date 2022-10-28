@@ -5,4 +5,4 @@ read answer
 echo "$answer? okay, i just want to let you know we are here to support you"
 echo "i wish you have great time"
 read reply 
-echo "$reply? you are welcome then..."
+echo "$reply? you are welcome then..."  #1st in command

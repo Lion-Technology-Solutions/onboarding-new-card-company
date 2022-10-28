@@ -1,4 +1,5 @@
 #!/bin/bash
 echo "this is the kings card and its content"
 ls -altr
-free -m
+free -m  #CEO awareness
+ #this is how we welcome a new member into the new card platform

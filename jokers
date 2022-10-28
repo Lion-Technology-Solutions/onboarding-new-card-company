@@ -9,5 +9,5 @@ read age
 echo "your age is $age "
 echo "where do you come from"
 read place
-echo "you come from $place"
+echo "you come from $place"  #consultant A
 echo "thank you for your time and have a great using our platform"
