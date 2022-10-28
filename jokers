@@ -1,0 +1,13 @@
+#!/bin/bash
+echo "welcome to this department"
+echo "i will need the following info from you"
+echo "what is your name please"
+read name 
+echo "the name you entered is $name"
+echo "how old are you"
+read age
+echo "your age is $age "
+echo "where do you come from"
+read place
+echo "you come from $place"
+echo "thank you for your time and have a great using our platform"

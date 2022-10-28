@@ -1,0 +1,11 @@
+#1/bin/bash
+echo "why choose our platform"
+read ok
+echo "great"
+echo "are you here for work or studies"
+read answear
+echo "$answear great vision"
+echo "how long will it take for you to achieve your dream here"
+read time 
+echo "$time? wow just stay focus and your wish shall be as you command"
+echo " stay blessed"
